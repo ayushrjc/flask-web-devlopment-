@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+mysqlconnector://root:@localhost/techinfernowebsite",
+    "prod_uri": "mysql+mysqlconnector://root:@localhost/techinfernowebsite",
+    "fb_url": "https://facebook.com/ayushrajchoudhary",
+    "insta_url": "https://instagram.com/ayush_rj_",
+    "gh_url": "https://github.com/ayushrajchoudhary",
+    "blog_name": "Tech Inferno Ayush",
+    "gmail_user": "techinfernoarc@gmail.com",
+    "gmail_pw": "",
+    "no_of_post": 3
+  }
+}
